@@ -1,0 +1,13 @@
+streamlit
+PyMuPDF
+faiss-cpu
+openai
+tiktoken
+requests
+scikit-learn
+pandas
+langchain_community
+langchain_openai
+langchain
+transformers
+python-dotenv
